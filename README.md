@@ -19,3 +19,5 @@
 
 * Api 3: Get the list of products with AverageCustomerRating in the order of highest to lowest ratings.
 ### /api/product/get
+
+[![Run in Postman](https://run.pstmn.io/button.svg)](https://app.getpostman.com/run-collection/024367118cff51e54c5c)
