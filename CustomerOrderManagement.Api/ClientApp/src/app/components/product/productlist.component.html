@@ -1,0 +1,33 @@
+<div class='card'>
+  <div class='card-header'>
+    {{pageTitle}}
+  </div>
+  <div class='card-body'>
+    <div class='table-responsive'>
+      <table class='table'
+			 *ngIf='products && products.length'>
+        <thead>
+          <tr>
+            <th>Product Id</th>
+            <th>Name</th>
+            <th>Price/unit</th>
+            <th>Rating</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr *ngFor='let product of products'>
+            <td>{{ product.productId}}</td>
+            <td>{{ product.productName}}</td>
+            <td>{{ product.pricePerItem | currency:'USD':'symbol':'1.2-2' }}</td>
+            <td>
+              <pm-star [rating]='product.averageCustomerRating'>
+              </pm-star>
+            </td>
+          </tr>
+        </tbody>
+      </table>
+      <button type="button" [disabled]="currentPageIndex<=0" class="btn btn-secondary" (click)="goBack()">Previous</button>
+      <button type="button" [disabled]="!products || products.length<5" class="btn btn-primary" (click)="goNext()">Next</button>
+    </div>
+  </div>
+</div>

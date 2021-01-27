@@ -1,0 +1,92 @@
+[
+	{
+		"CustomerId": 1,
+		"CustomerName": "Celene Carlisi",
+		"AddressLine1": "93 Donald Trail",
+		"AddressLine2": "Porter",
+		"State": "North Carolina",
+		"Zip": "27264",
+		"Country": "US"
+	},
+	{
+		"CustomerId": 2,
+		"CustomerName": "Knox Godehard.sf",
+		"AddressLine1": "51 Crowley Park",
+		"AddressLine2": null,
+		"State": "Texas",
+		"Zip": "79977",
+		"Country": "US"
+	},
+	{
+		"CustomerId": 3,
+		"CustomerName": "Barrie Canning",
+		"AddressLine1": "8300 Thackeray Circle",
+		"AddressLine2": null,
+		"State": "Maryland",
+		"Zip": "20910",
+		"Country": "US"
+	},
+	{
+		"CustomerId": 4,
+		"CustomerName": "Ekaterina Yirrell",
+		"AddressLine1": "433 Lyons Hill",
+		"AddressLine2": null,
+		"State": "Nevada",
+		"Zip": "89550",
+		"Country": "US"
+	},
+	{
+		"CustomerId": 5,
+		"CustomerName": "Conrad Rubes",
+		"AddressLine1": "0 Butternut Point",
+		"AddressLine2": null,
+		"State": "Louisiana",
+		"Zip": "70160",
+		"Country": "US"
+	},
+	{
+		"CustomerId": 6,
+		"CustomerName": "Rheba Yakunin",
+		"AddressLine1": "95270 Anhalt Road",
+		"AddressLine2": null,
+		"State": "Ohio",
+		"Zip": "43666",
+		"Country": "US"
+	},
+	{
+		"CustomerId": 7,
+		"CustomerName": "Shirl Bardwell",
+		"AddressLine1": "1082 Tennessee Place",
+		"AddressLine2": "Northland",
+		"State": "Tennessee",
+		"Zip": "37228",
+		"Country": "US"
+	},
+	{
+		"CustomerId": 8,
+		"CustomerName": "Brice Okeshott",
+		"AddressLine1": "065 Trailsway Street",
+		"AddressLine2": null,
+		"State": "Virginia",
+		"Zip": "24503",
+		"Country": "US"
+	},
+	{
+		"CustomerId": 9,
+		"CustomerName": "Raviv Cowup",
+		"AddressLine1": "35 Lakewood Gardens Plaza",
+		"AddressLine2": "Cambridge",
+		"State": "Georgia",
+		"Zip": "31605",
+		"Country": "US"
+	},
+	{
+		"CustomerId": 10,
+		"CustomerName": "Cord Huikerby",
+		"AddressLine1": "469 Moland Road",
+		"AddressLine2": null,
+		"State": "California",
+		"Zip": "93034",
+		"Country": "US"
+	}
+]

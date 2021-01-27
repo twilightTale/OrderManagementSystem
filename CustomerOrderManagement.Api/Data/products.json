@@ -1,0 +1,52 @@
+[
+	{
+		"ProductName": "Napkin - Beverage 1 Ply",
+		"PricePerItem": "3.05",
+		"AverageCustomerRating": 1.38
+	},
+	{
+		"ProductName": "Bamboo Shoots - Sliced",
+		"PricePerItem": "2.80",
+		"AverageCustomerRating": 4.12
+	},
+	{
+		"ProductName": "Chilli Paste, Sambal Oelek",
+		"PricePerItem": "1.48",
+		"AverageCustomerRating": 3.48
+	},
+	{
+		"ProductName": "Chocolate - Liqueur Cups With Foil",
+		"PricePerItem": "6.83",
+		"AverageCustomerRating": 4.68
+	},
+	{
+		"ProductName": "Veal - Inside, Choice",
+		"PricePerItem": "5.03",
+		"AverageCustomerRating": 3.64
+	},
+	{
+		"ProductName": "Sauce - Marinara",
+		"PricePerItem": "0.79",
+		"AverageCustomerRating": 2.82
+	},
+	{
+		"ProductName": "Tobasco Sauce",
+		"PricePerItem": "3.37",
+		"AverageCustomerRating": 2.36
+	},
+	{
+		"ProductName": "Wine - Masi Valpolocell",
+		"PricePerItem": "5.98",
+		"AverageCustomerRating": 3.22
+	},
+	{
+		"ProductName": "Pork - Back, Long Cut, Boneless",
+		"PricePerItem": "5.30",
+		"AverageCustomerRating": 3.88
+	},
+	{
+		"ProductName": "Salmon Atl.whole 8 - 10 Lb",
+		"PricePerItem": "2.73",
+		"AverageCustomerRating": 1.86
+	}
+]
